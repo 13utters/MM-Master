@@ -1,6 +1,6 @@
 {
 	"room": "LA LA LANDERS",
-	"css": "https://github.com/13utters/MM-Master/edit/master/lala/style.css",
+	"css": "https://github.com/13utters/MM-Master/tree/master/lala/style.css",
 	"rules": {
             "allowAutorespond": true,
             "allowAutowoot": true,
