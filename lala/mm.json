@@ -12,8 +12,8 @@
             "forceSmartVote": false
 	},
 	"images": {
-	     "background": "https://github.com/13utters/MM-Master/blob/master/lala/2k14ilounge.png",
-	     "playback": null,
+	     "background": null,
+	     "playback": "https://github.com/13utters/MM-Master/blob/master/lala/2k14ilounge.png",
 	     "admin": null,
 	     "ambassador": null,
 	     "host": null,
