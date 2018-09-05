@@ -1,4 +1,6 @@
 <?php
+header('Access-Control-Allow-Origin: https://plug.dj';); 
+header('Content-Type: text/json');
 
 $m1 = "https://cdn.rawgit.com/13utters/MM-Master/ed7aae0f/lala/mm.json";
 $m2 = "https://cdn.rawgit.com/13utters/MM-Master/8ebfd549/lala/mm.json";
