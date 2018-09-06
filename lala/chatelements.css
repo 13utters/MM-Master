@@ -1,12 +1,12 @@
 #chat-messages [data-cid|='36370820'] .msg .from .un {
     padding-left: 20px;
-    background: url(https://i.imgur.com/tkhz34Y.png) center ;
+    background: url(https://i.imgur.com/tkhz34Y.png) center no-repeat;
     background-size: 18px;
     background-position-x: 0
 }
 #chat-messages [data-cid|='3490278'] .msg .from .un {
     padding-left: 20px;
-    background: url(https://raw.githubusercontent.com/13utters/talks/master/DragonMedium.png) center ;
+    background: url(https://raw.githubusercontent.com/13utters/talks/master/DragonMedium.png) center no-repeat;
     background-size: 18px;
     background-position-x: 0
 }
