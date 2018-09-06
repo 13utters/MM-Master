@@ -54,7 +54,7 @@
     background-position-x: -1px
 }
 
-#chat-messages [data-cid|="6273420"] .msg .from .un {
+#chat-messages [data-cid|="31601118"] .msg .from .un {
     padding-left: 20px;
     background: url(https://i.imgur.com/YAMfBq4.png) center no-repeat;
     background-size: 20px;
@@ -68,7 +68,7 @@
 
 #chat [data-cid|='3673123'] .un:hover:after {
     content: 'Room Developer';
-    background: url(https://media.giphy.com/media/FrnpqArQZtti8/giphy.gif) no-repeat;
+    background: url(https://i.imgur.com/HdwNWu5.png) no-repeat;
     padding: 3px 6px;
     color: #fff;
     bottom: 20px;
