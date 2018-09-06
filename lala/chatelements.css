@@ -74,7 +74,7 @@
 
 #chat [data-cid|='3673123'] .un:hover:after {
     content: 'Room Developer';
-    background: url(https://i.imgur.com/HdwNWu5.png) no-repeat;
+    background: url(https://i.imgur.com/HdwNWu5.png) center no-repeat;
     padding: 3px 6px;
     color: #fff;
     bottom: 20px;
@@ -84,9 +84,9 @@
     height: 26px
 }
 
-#chat [data-cid|='4453331'] .un:hover:after {
+#chat [data-cid|='3746310'] .un:hover:after {
     content: 'Homao da Sala';
-    background: url(https://i.imgur.com/HdwNWu5.png);
+    background: url(https://i.imgur.com/HdwNWu5.png) center no-repeat;
     padding: 3px 6px;
     color: #fff;
     bottom: 20px;
@@ -98,7 +98,7 @@
 
 #chat [data-cid|='4103949'] .un:hover:after {
     content: 'Urso da Sala';
-    background: url(https://i.imgur.com/HdwNWu5.png);
+    background: url(https://i.imgur.com/HdwNWu5.png) center no-repeat;
     padding: 3px 6px;
     color: #fff;
     bottom: 20px;
