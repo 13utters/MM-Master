@@ -5,7 +5,7 @@ header('Content-Type: text/json');
 $m1 = "https://cdn.rawgit.com/13utters/MM-Master/ed7aae0f/lala/mm.json";
 $m2 = "https://cdn.rawgit.com/13utters/MM-Master/8ebfd549/lala/mm.json";
 $m3 = "https://cdn.rawgit.com/13utters/MM-Master/68199e70/lala/mm.json";
-$m4 = "https://cdn.rawgit.com/13utters/MM-Master/67c83e80/lala/mm.json";
+$m4 = "https://cdn.rawgit.com/13utters/MM-Master/3351e36a/lala/mm.json";
 $m5 = "https://cdn.rawgit.com/13utters/MM-Master/a6378258/lala/mm.json";
 $m6 = "https://cdn.rawgit.com/13utters/MM-Master/052d1890/lala/mm.json";
 
