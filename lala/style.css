@@ -6,6 +6,22 @@ Vá para Marte em: https://marsencrypt.tk.
 
 @import url(https://rawgit.com/13utters/MM-Master/master/lala/chatelements.css);
 @import url(https://rawgit.com/13utters/MM-Master/master/lala/badges.css);
+
+.img-background::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  bottom: -10%;
+  left: 5%;
+  width: 90%;
+  height: 95%;
+  background: inherit;
+  -webkit-filter: blur(25px);
+  -moz-filter: blur(25px);
+  -o-filter: blur(25px);
+  -ms-filter: blur(25px);
+  filter: blur(25px);
+}
 .nav-left__item.selected,.nav-left__item:hover,.user-profile-dropdown__item:hover{transform:translateX(2px);
 background:0 0!important}#user-menu 
 .item,.nav-left__item,.user-profile-dropdown__item{transition:all .12s ease}.community 
