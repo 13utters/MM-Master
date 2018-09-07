@@ -4,6 +4,12 @@
     background-size: 18px;
     background-position-x: 0
 }
+#chat-messages [data-cid|='40250435'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://code.radiant.dj/extraemotes.php?e=naa) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
 #chat-messages [data-cid|='3490278'] .msg .from .un {
     padding-left: 20px;
     background: url(https://raw.githubusercontent.com/13utters/talks/master/DragonMedium.png) center no-repeat;
