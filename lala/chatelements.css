@@ -4,6 +4,12 @@
     background-size: 18px;
     background-position-x: 0
 }
+#chat-messages [data-cid|='31494068'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://cdn.radiant.dj/rcs/emotes/img/blobs/301183654451740682.png) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
 #chat-messages [data-cid|='4593230'] .msg .from .un {
     padding-left: 20px;
     background: url(https://images.vexels.com/media/users/3/144136/isolated/lists/103e14c33826ea011cbdffc2e0b7f6a9-red-velvet-cupcake-illustration.png) center no-repeat;
