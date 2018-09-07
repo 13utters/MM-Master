@@ -1,5 +1,6 @@
 {
 	"room": "LA LA LANDERS",
+	"owner": "Memento Mori",
 	"css": "https://rawgit.com/13utters/MM-Master/master/lala/style.css",
 	"rules": {
             "allowAutorespond": true,
