@@ -6,7 +6,7 @@
 }
 #chat-messages [data-cid|='39916468'] .msg .from .un {
     padding-left: 20px;
-    background: url(https://cdn-prod.plug.dj/_/static/images/avatars/island-s05.21fb88e93f7786ea58edb654d3a2aba9943867f7.png) center no-repeat;
+    background: url(https://code.radiant.dj/extraemotes.php?e=heart) center no-repeat;
     background-size: 18px;
     background-position-x: 0
 }
