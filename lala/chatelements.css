@@ -4,6 +4,18 @@
     background-size: 18px;
     background-position-x: 0
 }
+#chat-messages [data-cid|='31494068'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://cdn-prod.plug.dj/_/static/images/avatars/dragon-e01.abbb5fc31195e9b2015105275bba39b4059aa3b0.png) left;
+    background-size: 18px;
+    background-position-x: 0
+}
+#chat-messages [data-cid|='39979605'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/tkhz34Y.png) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
 #chat-messages [data-cid|='40345029'] .msg .from .un {
     padding-left: 20px;
     background: url(https://avatars1.githubusercontent.com/u/7242393?s=256&v=1) center no-repeat;
