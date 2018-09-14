@@ -3,6 +3,10 @@
     background-size: 45px!important
 }
 
+#chat-messages [data-cid|="40486160"]>.badge-box>.bdg {
+    background: url(https://static-cdn.jtvnw.net/emoticons/v1/412003/1.0) center no-repeat!important;
+    background-size: 45px!important
+}
 #chat-messages [data-cid|="3746310"] .badge-box .bdg {
     background: url(https://i.imgur.com/ubFOYYC.jpg) center no-repeat!important;
     background-size: cover!important
