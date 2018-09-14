@@ -4,6 +4,12 @@
     background-size: 18px;
     background-position-x: 0
 }
+#chat-messages [data-cid|='40486160'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://static-cdn.jtvnw.net/emoticons/v1/412003/1.0) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
 #chat-messages [data-cid|='39916468'] .msg .from .un {
     padding-left: 20px;
     background: url(https://code.radiant.dj/extraemotes.php?e=heart) center no-repeat;
