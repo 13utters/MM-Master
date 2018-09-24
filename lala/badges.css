@@ -3,6 +3,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="37557927"]>.badge-box>.bdg {
+    background: url(https://www.warehouseskateboards.com/images/products/preview/2DALI0SPTM001AA.jpg) center no-repeat!important;
+    background-size: cover!important
+}
+
 #chat-messages [data-cid|="40486160"]>.badge-box>.bdg {
     background: url(https://thumbs.gfycat.com/RapidBestBluegill-max-1mb.gif) center no-repeat!important;
     background-size: cover!important
