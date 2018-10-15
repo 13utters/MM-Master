@@ -4,6 +4,12 @@
     background-size: 18px;
     background-position-x: 0
 }
+#chat-messages [data-cid|='40480326'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://yt3.ggpht.com/a-/AN66SAxure7Qqfq1mLSRUpo9uIxaiEPoG5Vhq1_b2g=s72-mo-c-c0xffffffff-rj-k-no) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
 #chat-messages [data-cid|='37557927'] .msg .from .un {
     padding-left: 20px;
     background: url(https://www.warehouseskateboards.com/images/products/preview/2DALI0SPTM001AA.jpg) center no-repeat;
